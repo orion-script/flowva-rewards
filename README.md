@@ -11,9 +11,6 @@ The objective was to accurately reproduce the Rewards page UI and functionality 
 ### Authentication
 - Email & password signup
 - Email & password login
-- Google OAuth (login & signup)
-- Forgot password with email recovery
-- Password reset flow handled without routing
 
 ### Rewards Hub
 - Earn Points & Redeem Rewards views
@@ -47,7 +44,7 @@ The objective was to accurately reproduce the Rewards page UI and functionality 
 
 - **Frontend:** React (Vite)
 - **Backend & Database:** Supabase (PostgreSQL)
-- **Authentication:** Supabase Auth + Google OAuth
+- **Authentication:** Supabase Auth
 - **Styling:** Inline styles (UI-focused assessment)
 
 ---
